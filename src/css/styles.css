@@ -11,6 +11,7 @@ body {
   background-image: url(/images/world.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   color: #f5ecec;
   line-height: 1.5;
 }
