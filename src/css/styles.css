@@ -8,11 +8,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: rgb(192, 180, 180);
-  background-image: url(/images/world.jpg);
+  background-image: url(../images/world.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  color: #f5ecec;
+  color: #f0ecec;
   line-height: 1.5;
 }
 
